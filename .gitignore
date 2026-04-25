@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Large model weights (Uncomment below if you don't want to upload the heavy .pth files to GitHub)
+# models/*.pth
+
+# Downloaded dataset files (if any are saved locally)
+*.npz
+*.tar.gz
+*.zip
