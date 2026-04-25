@@ -21,8 +21,8 @@ To install the application, you can just clone this repository and use pip.
 
 **Clone this repository**
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone <https://github.com/nimratabassum/Santhatic-Data-Generator.git>
+cd <https://github.com/nimratabassum/Santhatic-Data-Generator.git>
 ```
 
 **(Optional) Create a virtual environment**
@@ -75,9 +75,9 @@ python "histopathology image generation/test_dcgan.py"
 
 Generated images are saved to directly to your configured output folders:
 - `DCGAN test images Generated/`
+- <img width="134" height="68" alt="dcgan_test_2" src="https://github.com/user-attachments/assets/d83b6bb8-19e4-47bb-ad8b-55f9867133e7" />
 - `Wgan Test Image Generated/`
-
- *(You can add an actual image link here, e.g., `![WGAN-GP Samples](Wgan Test Image Generated/sample.png)`)*
+- <img width="134" height="68" alt="wgan_test_2" src="https://github.com/user-attachments/assets/827586ec-0546-4356-b7f4-a426657d091e" />
 
 ## Model Architectures and Documentation
 
@@ -103,6 +103,3 @@ While the tool is designed for practical use and generating medical imagery, ple
 - **No Graphical Interface (GUI)**
   The tool is built for CLI-based workflows. A GUI is not currently provided.
 
-## License
-
-*(If applicable, specify your license here, e.g., This project is licensed under the MIT License.)*
